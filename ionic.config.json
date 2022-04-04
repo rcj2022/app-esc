@@ -1,0 +1,8 @@
+{
+  "name": "AppEsc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8283b729"
+}
